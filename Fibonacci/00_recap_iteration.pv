@@ -1,0 +1,29 @@
+size(512, 512)
+background(0.8)
+
+text("Iteration", 40, 40)
+
+# repeat something
+for i in range(3):
+    print "als je een beetje wil chillen ..."
+
+# print empty line
+print
+
+# normal iteration
+for i in range(8):
+    print i
+
+print
+
+# What is this range?
+print range(5)
+
+# A list of "objects" (integers in this case)
+
+print
+
+# Create a list of other type of objects
+woordjes = ["Aap", "Noot", "Mies", "Vuur", "Teun"]
+for w in woordjes:
+    print w

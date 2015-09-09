@@ -1,0 +1,19 @@
+size(512, 512)
+background(0.8)
+
+text("Recursion", 40, 40)
+
+# Fibonacci as a recursive function
+def fib(n):
+    if n < 2:
+        return 1
+    return fib(n - 1) + fib(n - 2)
+
+# Test the recursive function
+print fib(5)
+print fib(9)
+print
+
+for i in range(10):
+    print "%d: %d" % (i + 1, fib(i))
+

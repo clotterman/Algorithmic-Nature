@@ -1,0 +1,16 @@
+size(512, 512)
+background(0.8)
+
+text("Fibonacci Numbers", 40, 40)
+
+# calculate fibonacci 10 times:
+# create 2 variables: this and prev
+this = 1
+prev = 0
+for i in range(1, 11):
+    print str(i) + ": " + str(this)
+    # the new value is the current + the previous
+    new = this + prev
+    # set values for next round
+    prev = this
+    this = new
