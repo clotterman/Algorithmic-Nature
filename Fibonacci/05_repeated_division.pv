@@ -1,7 +1,7 @@
 size(512, 512)
 background(0.8)
 
-text("Golden ratio division", 40, 40)
+text("Repeated division", 40, 40)
 
 # Fibonacci as a recursive function
 def fib(n):
