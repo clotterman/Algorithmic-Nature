@@ -1,7 +1,7 @@
 size(512, 512)
 background(0.8)
 
-text("Recursion", 40, 40)
+text("Fibonacci and the Golden Ratio", 40, 40)
 
 # Fibonacci as a recursive function
 def fib(n):
@@ -24,5 +24,5 @@ ratio_text = "%d: %f" % (int(precision), ratio)
 text(ratio_text, 40, 80)
 print 
 
-# for i in range(20):
-#     print "i: %d, val: %1.7f" % (i, golden_ratio(i)) 
+for i in range(20):
+    print "i: %d, val: %1.7f" % (i, golden_ratio(i)) 
