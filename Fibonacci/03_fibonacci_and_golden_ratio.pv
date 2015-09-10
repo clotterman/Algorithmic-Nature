@@ -18,11 +18,11 @@ print golden_ratio(5)
 print golden_ratio(10)
 print golden_ratio(30)
 
-var("precision", NUMBER, 5, 1, 10)
-ratio = golden_ratio(int(precision))
-ratio_text = "%d: %f" % (int(precision), ratio)
-text(ratio_text, 40, 80)
-print 
+# var("precision", NUMBER, 5, 1, 10)
+# ratio = golden_ratio(int(precision))
+# ratio_text = "%d: %f" % (int(precision), ratio)
+# text(ratio_text, 40, 80)
+# print 
 
 for i in range(20):
     print "i: %d, val: %1.7f" % (i, golden_ratio(i)) 
