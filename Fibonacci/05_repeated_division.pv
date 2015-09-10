@@ -20,7 +20,7 @@ def divide(total):
     part2 = total - part1
     return part1, part2
 
-steps = 10
+steps = 15
 remain = WIDTH
 fromX = 0
 for i in range(steps):

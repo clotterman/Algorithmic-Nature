@@ -15,7 +15,7 @@ def golden_ratio(n):
 
 # divide by the Golden ratio
 def divide(total):
-    gr = golden_ratio(5)
+    gr = golden_ratio(10)
     part1 = total / gr
     part2 = total - part1
     return part1, part2
