@@ -1,0 +1,20 @@
+size(512, 512)
+background(1)
+
+zwart = True
+for j in range(10):
+    for i in range(11):
+        if zwart:
+            fill(0)
+        else:
+            fill(0.5)
+        zwart = not zwart
+        rotate((5 * i) + (2 * j))
+        poly(40 + i * 40, 100 + j * 40, 10)
+        reset()
+
+# for i in range(10):
+#     rotate(5 * i)
+#     poly(40 + i * 40, 140, 10)
+#     reset()
+
