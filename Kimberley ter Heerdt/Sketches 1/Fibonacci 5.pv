@@ -8,14 +8,14 @@ def fib(n):
 stroke('#09e') and fill('#09e', 0.1)
 pen(0.30)
 
-x = random(WIDTH)
-y = random(HEIGHT)
-r = random(10,50)
+x = 0 #WIDTH / 2
+y = 0 #HEIGHT / 2
+# r = random(10,50)
 for i in range(9, 0, -1):
-    
-    export('fib6.png')
-   
     s = fib(i)
-    arc(x - s*10, y - s*10, s)
+    rx = random(WIDTH)
+    ry = random(HEIGHT)
+    arc(x + rx, y + ry, s)
 
-export('output.png')
+export('fib6.png')
+
