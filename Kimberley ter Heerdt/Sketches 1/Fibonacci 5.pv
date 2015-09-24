@@ -1,0 +1,21 @@
+size(200, 200)
+
+def fib(n):
+    if n < 2:
+        return 1
+    return fib(n - 1) + fib(n - 2)
+
+stroke('#09e') and fill('#09e', 0.1)
+pen(0.30)
+
+x = random(WIDTH)
+y = random(HEIGHT)
+r = random(10,50)
+for i in range(9, 0, -1):
+    
+    export('fib6.png')
+   
+    s = fib(i)
+    arc(x - s*10, y - s*10, s)
+
+export('output.png')
