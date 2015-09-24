@@ -7,18 +7,25 @@ def fib(n):
         return 1
     return fib(n - 1) + fib(n - 2)
 
-stroke(1)
-strokewidth(9)
-nofill()
-x = 480
-y = 480
-for i in range(14, 0, -1):
-    # variable s to optimize for speed
-    s = fib(i)
-    # Start at bottom right corner
-    # (calculate the from position by using x - s)
-    
-    rotate(30)
-    poly(y - s, x - s, s )
-    scale(0.7)
+def setup():
+    global t
+    t = 0
+    # pass
+
+def draw():
+    global t
+    x = 480
+    y = 480
+    t = t + 1
+    stroke(1)
+    strokewidth(9)
+    nofill()
+    for i in range(14, 0, -1):
+        # variable s to optimize for speed
+        s = fib(i)
+        # Start at bottom right corner
+        # (calculate the from position by using x - s)
+        rotate(30 + t)
+        poly(x - s, y - s, s )
+        scale(0.7)
     
