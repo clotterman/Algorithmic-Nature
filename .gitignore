@@ -55,3 +55,13 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# OS Generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+
