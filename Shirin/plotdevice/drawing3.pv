@@ -1,0 +1,27 @@
+size(1000, 1000)
+background("#600", "white")
+
+# Fibonacci as a recursive function
+def fib(n):
+    if n < 2:
+        return 1
+    return fib(n - 1) + fib(n - 2)
+
+stroke(0)
+fill(1)
+x = 500
+y = 500
+for i in range(20, 0, -1):
+    # variable s to optimize for speed
+    s = fib(i)
+    # Start at bottom right corner
+    # (calculate the from position by using x - s)
+    fill("#800", "white")
+    ellipse(x - s, y - s, s*2, s*2)
+    rect(x - s, y - s, s, s)
+    rect(x + s, y + s, s, s)
+
+    
+export('output.png')
+    
+    
