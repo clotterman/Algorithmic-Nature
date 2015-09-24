@@ -1,0 +1,18 @@
+size(200, 200)
+background(1)
+
+
+rotate(40)
+poly(100, 20, 10)
+
+rotate(10)
+poly(100, 60, 10)
+
+rotate(10)
+poly(100, 100, 10)
+
+rotate(10)
+poly(100, 140, 10)
+
+rotate(10)
+poly(100, 180, 10)
