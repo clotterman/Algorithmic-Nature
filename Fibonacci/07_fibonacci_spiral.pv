@@ -9,15 +9,22 @@ def fib(n):
 
 stroke(0)
 fill(1)
+
+# Start at center
 x = WIDTH / 2
 y = HEIGHT / 2
 
+# create a variable for the direction for the next circle
 direction = 0
 
 for i in range(16):
+    
     # variable s to optimize for speed
     s = fib(i)
-    # Start at center
+    
+    # depending on the direction,
+    # calculate the origin of the drawn oval
+    # then set the x and y for the next oval
     if direction == 0:
         oval(x, y, s, s)
         x = x + s
@@ -34,8 +41,12 @@ for i in range(16):
         oval(x, y - s, s, s)
         x = x + s
         y = y - s
-    # Rotate clockwise with 90 degrees
+        
+    # Rotate with 90 degrees clockwise
     direction = direction - 90
+    
+    # If the direction becomes negative,
+    # fix it to be positive
     if (direction == -90):
         direction = 270
         
