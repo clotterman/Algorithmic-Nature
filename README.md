@@ -5,8 +5,8 @@ Group Work for the [Algorithmic Nature assignment](https://github.com/ArtezGDA/C
 
 This repository holds some example files, produced and demonstrated in class:
 
-- [Fibonacci](/tree/master/Fibonacci)
-- [Random and Perlin Noise](/tree/master/PerlinNoise)
+- [Fibonacci](https://github.com/ArtezGDA/Algorithmic-Nature/tree/master/Fibonacci)
+- [Random and Perlin Noise](https://github.com/ArtezGDA/Algorithmic-Nature//tree/master/PerlinNoise)
 
 ### Student work:
 
