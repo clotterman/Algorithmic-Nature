@@ -1,0 +1,22 @@
+size(200, 200)
+background(100,100,100)
+
+speed(100)
+
+def setup(anim):
+    anim.dots = []
+    anim.limit = 200
+
+def draw(anim):
+    x, y = random(WIDTH), random(HEIGHT)
+    dotcolor = color(HSV, random(), .3, .8)
+    anim.dots.append([x, y, dotcolor])
+
+    for x, y, clr in anim.dots:
+        clr.alpha -= 1.0/anim.limit
+        fill(clr)
+        arc(x, y, 2)
+    anim.dots = anim.dots[-anim.limit:]
+
+def stop(anim):
+    print "Final population:", len(anim.dots)
