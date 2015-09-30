@@ -1,0 +1,13 @@
+size(512, 512)
+background(random(0.9), random(0.9), random(0.9), a=1.0)
+stroke(random(0.9), random(0.9), random(0.9))
+nofill()
+
+for i in range(400):
+    x = random(WIDTH)
+    y = random(HEIGHT)
+    r = random(1,100)
+    rect(x, y, r, r)
+
+export ('blokje4.png')
+    
