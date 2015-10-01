@@ -1,7 +1,7 @@
 # Lydienne's Sketches
 
 ## Fibonacci
-<!--![](Lydienne/imagefile.png)-->
+<!--![](Lydienne/drawing.1.png)-->
 
 ## Perlin Noise
 
