@@ -1,0 +1,20 @@
+size(512, 512)
+background('blue', 'white', angle=50)
+
+pen(4)
+for i in range(HEIGHT):
+    c = color(random(), random(), random())
+    stroke(c)
+    line(0, i, WIDTH, i)
+    
+    
+with stroke(0), nofill():
+    arc(150,225, 75, range=180)
+   
+    geometry(RADIANS)
+    arc(50,75, 25, range=pi)
+    
+
+    geometry(PERCENT)
+    arc(50,125, 125, range=.8)
+    

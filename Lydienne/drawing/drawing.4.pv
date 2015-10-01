@@ -1,0 +1,16 @@
+size(512 ,512)
+speed(30)
+
+def setup(anim):
+    anim.path = []
+
+def draw(anim):
+    fill()
+    stroke(0.8)
+
+    if mousedown:
+        pt = Point(MOUSEX, MOUSEY)
+        anim.path.append(pt)
+
+    if anim.path:
+        bezier(anim.path, smooth=True)

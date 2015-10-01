@@ -1,0 +1,16 @@
+size(512, 512)
+background(1)
+
+color('blue')
+fill(2.5)
+for i in range(25):
+    stroke(0.5, random(2.5), random(0.5,1.0))
+    pen(random(25))
+    radius = random(100)
+    oval(random(WIDTH), random(HEIGHT), radius, radius)
+
+oldfill = fill() # remember the old color
+fill('blue')      # set the new color
+arc(40,40, 10)   # draw
+arrow(340,140, 180)   # draw
+fill(oldfill)    # restore the old color

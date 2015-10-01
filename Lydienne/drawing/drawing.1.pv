@@ -1,0 +1,26 @@
+size(512, 512)
+background('aqua')
+fill('lawngreen')
+stroke('deeppink')
+
+# Fibonacci as a recursive function
+def fib(n):
+    if n < 2:
+        return 1
+    return fib(n - 1) + fib(n - 2)
+
+stroke(6)
+fill('black', 'red', 'white', steps=[0,.3,.6])
+x = 300
+y = 300
+for i in range(12, 0, -1):
+    # variable s to optimize for speed
+    s = fib(i)
+    # Start at bottom right corner
+    # (calculate the from position by using x - s)
+    oval(x - s, y - s, s, s)
+    
+    arc(5, 20, 5, fill=None, stroke='green')
+rect(0,0, 10,10, fill=('black', 0.5), stroke=(1,0,0))
+star(5,40, fill=.5, stroke=(CMYK, 1, 0, 0, 0))
+
