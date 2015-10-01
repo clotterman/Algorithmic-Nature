@@ -1,4 +1,4 @@
-size(200, 200)
+size(512, 512)
 background(0.6)
 
 #pen(1)
