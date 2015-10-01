@@ -10,11 +10,11 @@ def fib(n):
 stroke(1)
 strokewidth(3)
 nofill()
-x = 500
-y = 500
+x = WIDTH / 2
+y = HEIGHT / 2
 for i in range(14, 0, -1):
     # variable s to optimize for speed
     s = fib(i)
     # Start at bottom right corner
     # (calculate the from position by using x - s)
-    rect(y - s, x - s, s, s)
+    rect(y - s, x - s, s*2, s*2)
