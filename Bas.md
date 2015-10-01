@@ -1,7 +1,8 @@
 # Bas's Sketches
 
 ## Fibonacci
-<!--![](Bas/imagefile.png)-->
+![](bas/Code4.pdf)
+![](Bas/Code1.1.pdf)
 
 ## Perlin Noise
 
