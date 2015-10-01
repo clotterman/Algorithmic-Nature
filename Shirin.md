@@ -1,7 +1,10 @@
 # Shirin's Sketches
 
 ## Fibonacci
-<!--![](Shirin/imagefile.png)-->
+![drawing 1](Shirin/plotdevice/output1.png)
+[drawing 1](Shirin/plotdevice/drawing1.pv)
+
+## Random
 
 ## Perlin Noise
 
