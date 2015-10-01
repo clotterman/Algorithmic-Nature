@@ -14,4 +14,4 @@ for i in range(200):
     fill(0.2, random(x+y),random(y)) 
     oval(0, 400, random(i*10), 100)
 
-export("2.png")
+export("2.2.png")

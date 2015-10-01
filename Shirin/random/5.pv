@@ -19,5 +19,5 @@ for i in range(random(300)):
     fill(random(x*10), random(0.3), 0)
     arc(250,170, 40, range=random(360))
     
-export("5.png")
+export("5.2.png")
 
