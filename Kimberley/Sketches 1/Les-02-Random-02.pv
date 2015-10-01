@@ -1,0 +1,18 @@
+size(200,200)
+speed(7)
+
+def setup(anim):
+    anim.dots = []
+    anim.limit = 1
+
+def draw(anim):
+    x, y = random(WIDTH), random(HEIGHT)
+    kleur = color(RGB, random(), random(), 9)
+    anim.dots.append([x, y, kleur])
+
+    for x, y, clr in anim.dots:
+        clr.alpha -= 0.12/anim.limit
+        fill(clr)
+        form = choice((oval,star))
+        form(x, y, 5 ,5,) #waar & en x,y
+export('random1.png')
