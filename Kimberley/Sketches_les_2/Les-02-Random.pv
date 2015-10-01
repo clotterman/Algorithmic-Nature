@@ -1,0 +1,22 @@
+size(200, 200)
+color(RGB)
+
+r = 0
+g = 0.5
+b = 0.9
+    
+c=random
+
+translate(12,12) #waar het grid begint
+for x, y in grid(30,30,5.9,5.9): #hoeveelheid+positie
+   
+    with scale(c(0.1, 0.3)): #minimale grootte en max.
+       form = choice((oval, star))
+       form(x,y,20,20) 
+       fill(r, g, b)
+       
+       r=random()
+       g=random()
+       b=random()
+  
+export('random2.png')

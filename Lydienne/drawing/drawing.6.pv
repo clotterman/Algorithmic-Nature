@@ -1,0 +1,10 @@
+size(512, 512)
+background('white', 'yellow')
+
+
+fill('yellow')
+for i in range(10):
+    stroke(1.5, random(0.5), random(0.5,1.0))
+    pen(random(150))
+    radius = random(100)
+    rect(random(WIDTH), random(HEIGHT), radius, radius)

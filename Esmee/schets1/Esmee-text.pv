@@ -1,0 +1,23 @@
+size(200, 200)
+background(0,0,50)
+
+def fib(n):
+    if n < 2:
+        return 1
+    return fib (n - 1) + fib(n - 2)
+    
+
+y = 10
+for i in range(12):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    transform(CORNER)
+    oval(10, y, s, s)
+    y += s
+
+
+    fill("red")
+    stroke(10)
+    font("Helvetica", "bold", 8)
+    text('esmee', 50, y, s, s)
+    y += s

@@ -1,0 +1,11 @@
+size(512, 512)
+background(0.6)
+
+#pen(1)
+stroke(1)
+
+for i in range(20):
+    x = random(WIDTH)
+    y = random(HEIGHT)
+   
+    rect(x, y, 6, 6)

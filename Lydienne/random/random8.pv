@@ -1,0 +1,11 @@
+size(512, 512)
+background(1)
+
+
+for k in range(16):
+    for i in range(random(100)):
+       x= random(512)
+       y= random(512)
+       rect(random(x+y),8.5 + k * 30, random(5.8),25)
+       reset()
+    

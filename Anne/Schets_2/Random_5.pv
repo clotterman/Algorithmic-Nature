@@ -1,0 +1,8 @@
+size(200, 200)
+
+for i in range(200):
+    x = random(WIDTH)
+    y = random(HEIGHT)
+    oval(x, y, 30, 30)
+    
+    fill(random(), 0.1, 0.1, random())

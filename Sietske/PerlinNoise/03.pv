@@ -1,0 +1,13 @@
+size(512, 512)
+background(0, 3, 0.2)
+
+#pen(1)
+stroke(1)
+strokewidth(2)
+nofill()
+
+for i in range(20):
+    x = random(WIDTH)
+    y = random(HEIGHT)
+    oval(x, y, 30, 30)
+    rect(8, 8, x, y)

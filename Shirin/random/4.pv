@@ -1,0 +1,15 @@
+size(500, 500)
+
+for i in range(random(300)):
+    x = random(1)
+    y = random(2)
+    stroke(0.4, random(x+y),random(i+100)) 
+    nofill()
+    rect(0 ,0, random(i*10), 500)
+    
+    stroke(1, random(x+y),random(y)) 
+    nofill()
+    rect(0 ,0, random(x+i), 500)
+    
+
+export("4.2.png")

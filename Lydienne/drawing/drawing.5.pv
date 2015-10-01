@@ -1,0 +1,16 @@
+size(512, 512)
+background(1)
+
+def flower(x, y):
+    HSV= color(random(), random(), random())
+    
+    with fill(HSV), stroke(.2), pen(1):
+        with transform(CORNER):
+            translate(x,y)
+            for i in range(25):
+                rotate(26)
+                line(0,10, 15,15)
+                rect(10,8, 40,5)
+                
+for i in range(60):
+    flower(random(WIDTH), random(HEIGHT))

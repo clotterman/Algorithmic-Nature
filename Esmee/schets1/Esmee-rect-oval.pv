@@ -1,0 +1,15 @@
+size(200px, 200px)
+background(1)
+
+def fib(n):
+    if n < 2:
+        return 1
+    return fib (n - 1) + fib(n - 2)
+    
+fill('green', 'cyan')
+y = 10
+for i in range(12):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    choice([rect, oval])(55, y, s, s)
+    y += s

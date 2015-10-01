@@ -1,0 +1,22 @@
+size(512, 512)
+background(1)
+
+# create a variable 'zwart',
+# and make it True for the first square
+zwart = True
+
+for j in range(10):
+    for i in range(11):
+        
+        # Set the color based on that variable
+        if zwart:
+            fill(0)
+        else:
+            fill(0.5)
+            
+        # Inverse the variable (if it was true, now become false and vice versa)    
+        zwart = not zwart
+        
+        rotate((5 * i) + (2 * j))
+        poly(40 + i * 40, 100 + j * 40, 10)
+        reset()

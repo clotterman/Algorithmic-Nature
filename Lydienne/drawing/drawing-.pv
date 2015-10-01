@@ -1,0 +1,24 @@
+size(512, 512)
+background(4)
+
+speed(250)
+
+def setup(anim):
+    anim.dots = []
+    anim.limit = 250
+
+def draw(anim):
+    background(10, .5, 0.5)
+    x, y = random(WIDTH), random(HEIGHT)
+    dotcolor = color(HSV, random(), random(), .9)
+    anim.dots.append([x, y, dotcolor])
+
+    for x, y, clr in anim.dots:
+        clr.alpha -= 6.6/anim.limit
+        fill(clr)
+        poly(x,y, 15, points=5)
+        oval(y,x, 20,20)
+    anim.dots = anim.dots[-anim.limit:]
+
+def stop(anim):
+    print "Final population:", len(anim.dots)

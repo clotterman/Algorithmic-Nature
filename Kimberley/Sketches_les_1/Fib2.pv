@@ -1,0 +1,24 @@
+size(200, 200)
+
+def fib(n):
+    if n < 2:
+        return 1
+    return fib(n - 1) + fib(n - 2)
+
+
+
+fill(None)
+stroke(0)
+strokewidth(3)
+
+
+
+
+x = 100
+y = 300
+for i in range(10, 0, -1):
+   
+    s = fib(i)
+    poly(x - s, y - s*10, s*10, points=10)
+    
+    export('fib2.png')
