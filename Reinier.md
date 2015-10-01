@@ -9,7 +9,7 @@
 ## Random
 ![](Reinier/random/sketch1_random.png)
 [sketch 1](Reinier/random/sketch1_random.pv)
-![](Reinier/random/sketch2_random_random.png)
+![](Reinier/random/sketch2_random.png)
 [sketch 1](Reinier/random/sketch2.pv)
 ## Perlin Noise
 
