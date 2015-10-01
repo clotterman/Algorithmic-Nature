@@ -8,15 +8,14 @@ def fib(n):
     
 
     
-r = 2.0
+r = 10
 origin = Point(WIDTH/2, HEIGHT/2)
 
-for i in range(10):
+for i in range(100):
+    background(.1, .10, .6)
+    fill(.19, .12, .19)
+    stroke(1)
     pt = Point(random(WIDTH), random(HEIGHT))
-    arc(pt, r)
+    arc(pt,r)
+    line(origin, pt)
 
-    a = origin.angle(pt)
-    with transform(CORNER):
-        translate(origin.x, origin.y)
-        rotate(-a)
-        arrow(80, 10, 10)
