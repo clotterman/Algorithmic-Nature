@@ -17,5 +17,5 @@ for i in range(9, 0, -1):
     ry = random(HEIGHT)
     arc(x + rx, y + ry, s)
 
-export('fib6.png')
+export('fib5.png')
 
