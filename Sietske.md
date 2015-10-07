@@ -14,13 +14,34 @@
 ![](Sietske/Fibonacci/06_drawing_fibonacci_wolkje04.png)
 [drawing 6](Sietske/fibonacci/06_drawing_fibonacci_wolkje04.pv)
 
+
 ## Perlin Noise
-![](Sietske/PerlinNoise/01.png)
-[drawing 1](Sietske/PerlinNoise/01.pv)
-![](Sietske/PerlinNoise/02.png)
-[drawing 2](Sietske/PerlinNoise/02.pv)
-![](Sietske/PerlinNoise/03.png)
-[drawing 3](Sietske/PerlinNoise/03.pv)
+
+####Random
+![](Sietske/PerlinNoise/random-01.png)
+[drawing 1](Sietske/PerlinNoise/random-01.pv)
+![](Sietske/PerlinNoise/random-02.png)
+[drawing 2](Sietske/PerlinNoise/random-02.pv)
+![](Sietske/PerlinNoise/random-03.png)
+[drawing 3](Sietske/PerlinNoise/random-03.pv)
+![](Sietske/PerlinNoise/random-04.png)
+[drawing 4](Sietske/PerlinNoise/random-04.pv)
+![](Sietske/PerlinNoise/random-05.png)
+[drawing 5](Sietske/PerlinNoise/random-05.pv)
+
+####Perlin noise
+![](Sietske/PerlinNoise/PerlinNoise-01.png)
+[drawing 1](Sietske/PerlinNoise/PerlinNoise-01.pv)
+![](Sietske/PerlinNoise/PerlinNoise-02.png)
+[drawing 2](Sietske/PerlinNoise/PerlinNoise-02.pv)
+![](Sietske/PerlinNoise/PerlinNoise-03.png)
+[drawing 3](Sietske/PerlinNoise/PerlinNoise-03.pv)
+![](Sietske/PerlinNoise/PerlinNoise-04.png)
+[drawing 4](Sietske/PerlinNoise/PerlinNoise-04.pv)
+![](Sietske/PerlinNoise/PerlinNoise-05.png)
+[drawing 5](Sietske/PerlinNoise/PerlinNoise-05.pv)
+
+
 
 ## Recursive functions
             

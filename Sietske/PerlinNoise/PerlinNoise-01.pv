@@ -16,3 +16,4 @@ for y in range(20, WIDTH, 15):
 for i in range(60):
     fill(0)
     oval(random(WIDTH), random(HEIGHT), 5, 2)
+
