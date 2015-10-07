@@ -14,5 +14,10 @@
 ## Perlin Noise
 ![](Reinier/pn/pn_sketch_1.gif)
 [sketch 1](Reinier/pn/pn_sketch_1.pv)
+![](Reinier/pn/pn_sketch_2.gif)
+[sketch 1](Reinier/pn/pn_sketch_2.pv)
+![](Reinier/pn/pn_sketch_3.gif)
+[sketch 1](Reinier/pn/pn_sketch_3.pv)
+
 ## Recursive functions
             
