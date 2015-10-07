@@ -11,6 +11,7 @@
 [sketch 1](2_Reinier/random/sketch1_random.pv)
 ![](Reinier/2_random/sketch2_random.png)
 [sketch 2](2_Reinier/random/sketch2.pv)
+
 ## Perlin Noise
 ![](Reinier/3_pn/pn_sketch_1.gif)
 [sketch 1](Reinier/3_pn/pn_sketch_1.pv)
@@ -18,6 +19,10 @@
 [sketch 2](Reinier/3_pn/pn_sketch_2.pv)
 ![](Reinier/3_pn/pn_sketch_3.gif)
 [sketch 3](Reinier/3_pn/pn_sketch_3.pv)
+![](Reinier/3_pn/pn_sketch_4.gif)
+[sketch 4](Reinier/3_pn/pn_sketch_4.pv)
+![](Reinier/3_pn/pn_sketch_5.png)
+[sketch 4](Reinier/3_pn/pn_sketch_5.pv)
 
 ## Recursive functions
             
