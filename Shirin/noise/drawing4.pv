@@ -1,0 +1,39 @@
+size(512, 512)
+background(0.3,0.2,0.8)
+import noise
+
+print noise.pnoise1(0.01)
+print noise.pnoise1(0.02)
+
+for i in range(10):
+    print noise.pnoise1(0.01 + (i * 0.01))
+
+stroke(1)
+fill(0.1,0.5,0.8)
+for x in range(400):
+    y = noise.pnoise1(x * 0.01, octaves=5)
+    y *= 1000 / 1.0
+    y += 20 / 1.0
+    oval(x, y, 50, 50)
+    
+stroke(1)
+fill(0.1,0.5,0.8)
+for x in range(400):
+    y = noise.pnoise1(x * 0.01, octaves=5)
+    y *= 1000 / 1.0
+    y += 40 / 1.0
+    oval(x, y, 20, 20)
+    
+stroke(1)
+fill(0.1,0.5,0.8)
+for x in range(400):
+    y = noise.pnoise1(x * 0.01, octaves=5)
+    y *= 1000 / 1.0
+    y += 40 / 1.0
+    oval(x, y, 10, 10)
+    
+
+    
+
+    
+
