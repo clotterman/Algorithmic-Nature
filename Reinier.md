@@ -20,9 +20,13 @@
 ![](Reinier/3_pn/pn_sketch_3.gif)
 [sketch 3](Reinier/3_pn/pn_sketch_3.pv)
 ![](Reinier/3_pn/pn_sketch_4.gif)
+![](Reinier/3_pn/pn_sketch_4.png)
 [sketch 4](Reinier/3_pn/pn_sketch_4.pv)
 ![](Reinier/3_pn/pn_sketch_5.png)
-[sketch 4](Reinier/3_pn/pn_sketch_5.pv)
+[sketch 5](Reinier/3_pn/pn_sketch_5.pv)
+![](Reinier/3_pn/pn_sketch_6.gif)
+![](Reinier/3_pn/pn_sketch_6.png)
+[sketch 6](Reinier/3_pn/pn_sketch_6.pv)
 
 ## Recursive functions
             
