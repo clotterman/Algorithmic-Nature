@@ -12,6 +12,7 @@
 ![](Reinier/random/sketch2_random.png)
 [sketch 1](Reinier/random/sketch2.pv)
 ## Perlin Noise
-
+![](Reinier/pn/pn_sketch_1.gif)
+[sketch 1](Reinier/pn/pn_sketch_1.pv)
 ## Recursive functions
             
