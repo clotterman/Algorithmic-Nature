@@ -8,9 +8,9 @@ def setup():
 
 def draw():
     global t
-    for y in range(0, WIDTH, 10):
+    for y in range(0, HEIGHT, 10):
         for x in range(0, WIDTH, 10):
             z = noise.snoise3((x * 0.01), (y * 0.01), (t * 0.02), octaves=4)
-            fill(z)
+            fill(0.5 + (z * 0.5))
             arc(x + 5, y + 5, 5)
     t = t + 1

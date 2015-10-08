@@ -19,22 +19,25 @@
 ![drawning 6](Esmee/schets1/Esmee-translate.png)
 [drawning 6](Esmee/schets1/drawning6.pv)
 
-![drawning 10](Esmee/schets2/Random.png)
+![drawning 7](Esmee/schets2/Random.png)
+[drawning 7](Esmee/schets2/drawning7.pv)
+
+![drawning 8](Esmee/schets2/Random1.png)
+[drawning 8](Esmee/schets2/drawning8.pv)
+
+![drawning 9](Esmee/schets2/Random2.png)
+[drawning 9](Esmee/schets2/drawning9.pv)
+
+![drawning 10](Esmee/schets2/Random3.png)
 [drawning 10](Esmee/schets2/drawning10.pv)
 
-![drawning 11](Esmee/schets2/Random1.png)
+![drawning 11](Esmee/schets2/Random4.png)
 [drawning 11](Esmee/schets2/drawning11.pv)
 
-![drawning 12](Esmee/schets2/Random2.png)
-[drawning 12](Esmee/schets2/drawning12.pv)
-
-![drawning 13](Esmee/schets2/Random3.png)
-[drawning 13](Esmee/schets2/drawning13.pv)
-
-![drawning 14](Esmee/schets2/Random4.png)
-[drawning 14](Esmee/schets2/drawning14.pv)
-
 ## Perlin Noise
+
+![drawning 1](Esmee/schets2/Random4.png)
+[drawning 1](Esmee/schets2/drawning11.pv)
 
 ## Recursive functions
             
