@@ -1,7 +1,20 @@
 # Lola's Sketches
 
 ## Fibonacci
-<!--![](Lola/imagefile.png)-->
+
+![](Lola/fibonachi/1.png)
+[klik hier](Lola/fibonachi/1.pv)
+![](Lola/fibonachi/2.png)
+[klik hier](Lola/fibonachi/2.pv)
+![](Lola/fibonachi/3.png)
+[klik hier](Lola/fibonachi/3.pv)
+![](Lola/fibonachi/4.png)
+[klik hier](Lola/fibonachi/4.pv)
+![](Lola/fibonachi/5.png)
+[klik hier](Lola/fibonachi/5.pv)
+![](Lola/fibonachi/6.png)
+[klik hier](Lola/fibonachi/6.pv)
+
 
 ## Perlin Noise
 

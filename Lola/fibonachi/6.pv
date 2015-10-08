@@ -1,6 +1,6 @@
 
-size(1000, 1000)
-background("deeppink")
+size(200, 200)
+background(1)
 
 zwart = True
 for j in range(10):
@@ -46,7 +46,7 @@ for j in range(10):
         else:
             fill(0.5)
         zwart = not zwart
-        rotate((5 * i) + (2 * j))
+        rotate((15 * i) + (2 * j))
         poly(40 + i * 40, 100 + j * 40, 10)
         reset()
 
@@ -58,7 +58,7 @@ for j in range(2):
         else:
             fill(0.5)
         zwart = not zwart
-        rotate((6 * i) + (4 * j))
+        rotate((190 * i) + (4 * j))
         poly(40 + i * 40, 100 + j * 40, 10)
         reset()
         
@@ -70,7 +70,7 @@ for j in range(8):
         else:
             fill(0.5)
         zwart = not zwart
-        rotate((6 * i) + (4 * j))
+        rotate((66 * i) + (4 * j))
         poly(40 + i * 40, 100 + j * 40, 10)
         reset()
 # for i in range(10):
