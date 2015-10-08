@@ -15,5 +15,5 @@ def draw():
         for x in range(0, WIDTH, 10):
             z = noise.snoise3((x * 0.1), (y * 0.1), (t * 0.02), octaves=4)
             fill(0.15 + (z * 0.75))
-            arc(x + 5, y + 5, 5)
+            arrow(x + 11, y + 5, 12.5)
     t = t + 1
