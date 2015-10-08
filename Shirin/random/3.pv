@@ -10,4 +10,4 @@ for i in range(1000):
     stroke(0.2, random(x+y),random(y)) 
     oval(random(i*10), random(y), random(i), 1000)
 
-export("3.png")
+export("3.2.png")

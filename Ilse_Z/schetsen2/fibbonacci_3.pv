@@ -1,0 +1,23 @@
+size(512, 512)
+background(0.5, 0.9, 0.3)
+
+# Fibonacci as a recursive function
+def fib(n):
+    if n < 1:
+        return 2
+    return fib(n - 2) + fib(n - 1)
+
+
+strokewidth(10)
+fill(0.1, 0.7, 0.3)
+x = 380
+y = 380
+for i in range(14, 0, -1):
+    # variable s to optimize for speed
+    s = fib(i)
+    # Start at bottom right corner
+    # (calculate the from position by using x - s)
+    
+    rotate(50)
+    poly(y - s, x - s, s )
+    scale(0.8)

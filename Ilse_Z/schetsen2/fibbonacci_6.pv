@@ -1,0 +1,20 @@
+size(512, 512)
+background(1)
+
+def fib(n):
+    if n < 2:
+        return 1
+    return fib(n - 1) + fib(n - 2)
+    
+
+    
+r = 10
+origin = Point(WIDTH, HEIGHT)
+
+for i in range(100):
+    background(.1, .10, .6)
+    fill(.19, .12, .19)
+    stroke(1)
+    pt = Point(random(WIDTH), random(HEIGHT))
+    arc(pt,r)
+    line(origin, pt)

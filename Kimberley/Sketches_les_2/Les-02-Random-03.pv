@@ -1,0 +1,14 @@
+size(200, 200)
+background(1)
+
+#=stroke(choice(('#ff0000','#00ff00','#0000ff','#000000')))
+
+for i in range(20):
+    x = (20 * 2)
+    y = (40)
+    line(x, y, 0, 0)
+    line(40, 80, 0, 0)
+    stroke('black')
+    rotate(138)
+    
+    reset()

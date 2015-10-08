@@ -12,4 +12,4 @@ for i in range(random(300)):
     rect(0 ,0, random(x+i), 500)
     
 
-export("4.png")
+export("4.2.png")

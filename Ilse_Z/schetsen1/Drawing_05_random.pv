@@ -1,0 +1,22 @@
+size(512, 512)
+background(1)
+
+def fib(n):
+    if n < 2:
+        return 1
+    return fib(n - 1) + fib(n - 2)
+    
+
+    
+r = 2.0
+origin = Point(WIDTH/2, HEIGHT/2)
+
+for i in range(10):
+    pt = Point(random(WIDTH), random(HEIGHT))
+    arc(pt, r)
+
+    a = origin.angle(pt)
+    with transform(CORNER):
+        translate(origin.x, origin.y)
+        rotate(-a)
+        arrow(80, 10, 10)

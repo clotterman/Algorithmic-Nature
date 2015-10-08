@@ -10,4 +10,4 @@ for i in range(200):
     fill(random(0.7), random(0.9), random(0.9))
     rect(random(i), random(i+x+y*10), 10, 10)
     
-export("1.png")
+export("1.2.png")

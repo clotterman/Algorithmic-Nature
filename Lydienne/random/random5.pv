@@ -1,0 +1,12 @@
+size(512, 512)
+background(1)
+
+
+for j in range(10):
+    
+    for i in range(5):
+        rotate((random() * i) + (random() * j))
+        x = random()
+        y = random(HEIGHT)
+        arc(45,x,y, range=60)
+        reset()

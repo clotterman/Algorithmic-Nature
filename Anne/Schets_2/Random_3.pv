@@ -1,0 +1,35 @@
+size(200, 200)
+background("#1800ff")
+
+font("helvetica", "bold", 175)
+path = textpath("+", 80, 100)
+
+for contour in path.contours:
+    prev = None
+    n = contour.length
+    for pt in contour.points(int(n)):
+
+        nofill()
+        stroke(1, 0.75)
+        pen(random(0.35, 0.5))
+
+        if prev != None:
+            with bezier(prev.x, prev.y):
+                curveto(
+                    pt.ctrl1.x + random(30),
+                    pt.ctrl1.y,
+                    pt.ctrl2.x,
+                    pt.ctrl2.y - random(30),
+                    pt.x,
+                    pt.y
+                )
+                curveto(
+                    pt.ctrl1.x + random(10),
+                    pt.ctrl1.y,
+                    pt.ctrl2.x,
+                    pt.ctrl2.y - random(80),
+                    pt.x + random(-1000, 20),
+                    pt.y + random(-800, 1000)
+                )
+
+        prev = pt

@@ -1,0 +1,17 @@
+size(512, 512)
+background(1)
+
+for i in range(8): 
+ 
+    zwart = True
+for j in range(10):
+    for i in range(11):
+        if zwart:
+            fill(0)
+        else:
+            fill('black', 'green', angle=45, steps=[.3,.6])
+        zwart = not zwart
+        stroke('black')
+        arc(20 + i * 80, 120 + j * 20, 10)
+        arc(40 + i * 40, 100 + j * 40, 10)
+        reset()

@@ -1,0 +1,22 @@
+size(512, 512)
+background('deeppink')
+
+zwart = True
+for j in range(10):
+    for i in range(11):
+        if zwart:
+            fill('black', 'green', angle=45, steps=[.3,.6])
+        else:
+            fill('black', 'blue', angle=45, steps=[.3,.6])
+        zwart = not zwart
+        rotate((16 * i) + (12 * j))
+        arrow(80 + i * 35, 35 + j * 45, 66)
+        reset()
+        
+        
+
+
+# for i in range(10):
+#     rotate(5 * i)
+#     poly(40 + i * 40, 140, 10)
+#     reset()
