@@ -31,7 +31,7 @@
 [Klik Hier](Nikki_G/Perlin/perlin_6.pv)
 
 ![](Nikki_G/Perlin/perlin_7.gif)
-[lik Hier](Nikki_G/Perlin/perlin_7.pv)
+[Klik Hier](Nikki_G/Perlin/perlin_7.pv)
 
 
 
