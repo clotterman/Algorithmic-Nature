@@ -29,6 +29,9 @@ for i in range(20, 0, -1):
     arc(x - s, y + s, 100, range=80, close=True)
 
     
+<<<<<<< HEAD
 export('output4.png')
     
+=======
+>>>>>>> origin/master
     

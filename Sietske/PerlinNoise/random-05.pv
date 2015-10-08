@@ -1,0 +1,19 @@
+import noise
+size(512, 512)
+background(random(8, 3), 1, random(4))
+
+def so(x, y):
+    clr =  color(1)
+            
+    with fill(clr), stroke(.2), pen(1):
+        with transform(CORNER):
+            translate(x,y)
+            for i in range(20):
+                rotate(50)
+                oval(0,10, 30,15)
+                poly(35,20,0)
+                        
+for i in range(60):
+    so(random(WIDTH), random(HEIGHT))
+    
+

@@ -12,7 +12,13 @@
 ![](Max/schets_random_03.png)[random 3](Max/schets_random_03.pv)
 ![](Max/schets_random_04.png)[random 4](Max/schets_random_04.pv)
 ![](Max/schets_random_05.png)[random 5](Max/schets_random_05.pv)
-
+![](Max/perlinnoise_01.gif) [perlin 1](Max/perlinnoise_01.pv)
+![](Max/perlinnoise_02.gif)[perlin 2](Max/perlinnoise_02.pv)
+![](Max/perlinnoise_03.gif)[perlin 3](Max/perlinnoise_03.pv)
+![](Max/perlinnoise_04.gif)[perlin 4](Max/perlinnoise_04.pv)
+![](Max/perlinnoise_05.gif)[perlin 5](Max/perlinnoise_05.pv)
+![](Max/perlinnoise_06.gif)[perlin 6](Max/perlinnoise_06.pv)
+![](Max/perlinnoise_07.gif)[perlin 7](Max/perlinnoise_07.pv)
 
 ## Perlin Noise
 
