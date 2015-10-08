@@ -1,5 +1,5 @@
-size(1000, 1000)
-background("#200", "white")
+ size(1000, 1000)
+background("white", "black")
 
 # Fibonacci as a recursive function
 def fib(n):
@@ -18,7 +18,7 @@ for i in range(15, 0, -1):
     s = fib(i)
     # Start at bottom right corner
     # (calculate the from position by using x - s)
-    fill("#800", "white")
+    fill("black", "white")
     stroke(0.1)
     poly(x - s, y - s, 100, points=12)  
     poly(x - s, y + s, 100, points=12)  
@@ -27,6 +27,6 @@ for i in range(15, 0, -1):
 
 
     
-export('output.png')
+export('output5.png')
     
     

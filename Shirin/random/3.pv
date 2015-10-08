@@ -4,10 +4,11 @@ for i in range(1000):
     x = random(1*10)
     y = random(1+3)
     nofill()
-    stroke(random(x), random(y), 0)  
+    stroke(1)  
     oval(0,random(i), random(i*10), 100)
  
-    stroke(0.2, random(x+y),random(y)) 
+    stroke(0) 
     oval(random(i*10), random(y), random(i), 1000)
-
+    
 export("3.2.png")
+

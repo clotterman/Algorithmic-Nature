@@ -21,4 +21,3 @@ def draw():
         y += HEIGHT / 2.0
         line(random(x), HEIGHT, random(x), HEIGHT - y)
 
-export("1.gif")
