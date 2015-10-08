@@ -1,0 +1,18 @@
+import noise
+global t
+
+def setup():
+    size(200, 200)
+    global t
+    background(10, 100, 0)
+    t = 0
+
+def draw():
+    global t
+    stroke(0)
+    t = t + 100
+    for x in range(HEIGHT):
+        y = noise.snoise2((x * 0.20), t, octaves=100)
+        y *= WIDTH / 5.0
+        y += WIDTH / 5.0
+        line(x, HEIGHT, x, HEIGHT - y)

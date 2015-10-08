@@ -62,6 +62,7 @@ target/
 ._*
 .Spotlight-V100
 .Trashes
+.smb*
 Icon?
 ehthumbs.db
 

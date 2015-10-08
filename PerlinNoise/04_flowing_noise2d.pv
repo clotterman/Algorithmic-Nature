@@ -15,4 +15,4 @@ def draw():
         y = noise.snoise2((x * 0.01), t, octaves=4)
         y *= HEIGHT / 2.0
         y += HEIGHT / 2.0
-        line(x, HEIGHT, x, HEIGHT - y)
+        oval(x, HEIGHT, x, HEIGHT - y)

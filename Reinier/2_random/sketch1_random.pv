@@ -1,0 +1,8 @@
+size(512, 512)
+background("#999", "blue")
+
+
+for i in range(200):
+    x = random(WIDTH)
+    y = random(HEIGHT)
+    rect(x, y, 500, 3)
