@@ -18,6 +18,23 @@
 ![](Lydienne/drawing/drawing.10.png)
 [drawing.10](Lydienne/drawing.10.png)
 
+![](Lydienne/random/random1.png)
+[random1](Lydienne/random1.png)
+![](Lydienne/random/random2.png)
+[random2](Lydienne/random2.png)
+![](Lydienne/random/random3.png)
+[random3](Lydienne/random3.png)
+![](Lydienne/random/random4.png)
+[random4](Lydienne/random4.png)
+![](Lydienne/random/random5.png)
+[random5](Lydienne/random5.png)
+![](Lydienne/random/random6.png)
+[random6](Lydienne/random6.png)
+![](Lydienne/random/random8.png)
+[random8](Lydienne/random8.png)
+![](Lydienne/random/random9.png)
+[random9](Lydienne/random9.png)
+
 ## Perlin Noise
 
 ## Recursive functions

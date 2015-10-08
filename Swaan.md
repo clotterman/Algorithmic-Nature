@@ -22,6 +22,16 @@
 [drawing4](Swaan/test8.pv)
 
 ## Perlin Noise
+![](Swaan/perlinnoise1.png)
+[drawing1](Swaan/perlinnoise1.pv)
+![](Swaan/perlinnoise2.png)
+[drawing2](Swaan/perlinnoise2.pv)
+![](Swaan/perlinnoise3.png)
+[drawing3](Swaan/perlinnoise3.pv)
+![](Swaan/perlinnoise4.png)
+[drawing4](Swaan/perlinnoise4.pv)
+![](Swaan/perlinnoise5.png)
+[drawing5](Swaan/perlinnoise5.pv)
 
 ## Recursive functions
             

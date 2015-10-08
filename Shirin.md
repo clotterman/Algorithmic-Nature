@@ -29,6 +29,16 @@
 [drawing 5](Shirin/random/5.pv)
 
 ## Perlin Noise
+![drawing 1](Shirin/noise/1.gif)
+[drawing 1](Shirin/noise/drawing1.pv)
+![drawing 2](Shirin/noise/2.png)
+[drawing 2](Shirin/noise/drawing2.pv)
+![drawing 3](Shirin/noise/3.png)
+[drawing 3](Shirin/noise/drawing3.pv)
+![drawing 4](Shirin/noise/4.png)
+[drawing 4](Shirin/noise/drawing4.pv)
+![drawing 5](Shirin/noise/5.png)
+[drawing 5](Shirin/noise/drawing5.pv)
 
 ## Recursive functions
             
