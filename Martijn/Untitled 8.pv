@@ -17,14 +17,7 @@ def draw():
         y = noise.snoise2((x * 4), t, octaves=4)
         y *= HEIGHT / random(30,50)
         y += random(30,50) / random(30,50)
-        fill(x,y)
-        
-        rect(x,random(1,512), x,random(3,512))
-
-
-
-
-
+        oval(x,random(1,512), x,random(3,512))
 
 size(512, 512)
 background(1)
@@ -48,5 +41,10 @@ def draw():
         fill(x,y)
         
         rect(x,random(1,512), x,random(3,512))
+
+
+
+
+
 
 
