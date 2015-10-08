@@ -3,7 +3,7 @@ import noise
 def setup():
     global t
     size(200, 200)
-    background(10, 0,10)
+    background("grey")
     fill(0)
     t = 0
 

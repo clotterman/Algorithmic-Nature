@@ -1,0 +1,21 @@
+size(200, 200)
+import noise
+
+print noise.pnoise1(0.01)
+print noise.pnoise1(0.02)
+
+for i in range(10):
+    print noise.pnoise1(0.10 + (i * 0.70))
+
+stroke(8)
+fill(9, 8, 1)
+background(0)
+
+for x in range(WIDTH):
+    y = noise.pnoise1(x * 0.01, octaves=40)
+    y *= HEIGHT / 1.0
+    y += HEIGHT / 10.0
+    rect(x, y, 100, 1)
+    
+    export('Perlin_Noise_1.png')
+    

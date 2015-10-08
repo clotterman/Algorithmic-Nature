@@ -34,6 +34,7 @@
 ![drawning 11](Esmee/schets2/Random4.png)
 [drawning 11](Esmee/schets2/drawning11.pv)
 
+
 ## Perlin Noise
 
 ![drawning 1](Esmee/schets3/01_noise.png)
@@ -56,6 +57,18 @@
 
 ![drawning 7](Esmee/schets3/05_noise.png)
 [drawning 7](Esmee/schets3/05_noise.pv)
+
+![drawning 8](Esmee/schets3/06_noise.png)
+[drawning 8](Esmee/schets3/06_noise.pv)
+
+![drawning 9](Esmee/schets3/07_noise.png)
+[drawning 9](Esmee/schets3/07_noise.pv)
+
+![drawning 10](Esmee/schets3/08_noise.png)
+[drawning 10](Esmee/schets3/08_noise.pv)
+
+![drawning 11](Esmee/schets3/09_noise.png)
+[drawning 11](Esmee/schets3/09_noise.pv)
 
 ## Recursive functions
             

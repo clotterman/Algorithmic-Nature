@@ -1,5 +1,5 @@
 size(1000, 1000)
-background("#600", "white")
+background(0)
 
 # Fibonacci as a recursive function
 def fib(n):
@@ -11,14 +11,50 @@ stroke(0)
 fill(1)
 x = 100
 y = 100
+ 
+
 for i in range(12, 0, -1):
-    # variable s to optimize for speed
     s = fib(i)
-    # Start at bottom right corner
-    # (calculate the from position by using x - s)
-    fill("#800", "white")
-    ellipse(500 - s*2, 500 - s*2, s*4, s*4)
+    fill(2)
+    ellipse(500 - s*2, 500 - s*10, s*10, s*10)
     
-export('output.png')
+for i in range(12, 0, -1):
+    s = fib(i)
+    fill(2)
+    ellipse(500 - s*2, 500 - s*10, s*10, s*10)
+
+for i in range(12, 0, -1):
+    s = fib(i)
+    fill(2)
+    ellipse(500 + s*2, 500 + s*10, s*10, s*10) 
+
+for i in range(12, 0, -1):
+    s = fib(i)
+    fill(2)
+    ellipse(500 + s*2, 500 - s*10, s*10, s*10) 
+
+for i in range(12, 0, -1):
+    s = fib(i)
+    fill(2)
+    ellipse(500 - s*2, 500 + s*10, s*10, s*10)
+    
+for i in range(12, 0, -1):
+    s = fib(i)
+    fill(2)
+    ellipse(500 - s*2, 500 - s*6, s*1, s)
+
+for i in range(12, 0, -1):
+    s = fib(i)
+    fill(2)
+    ellipse(500 + s*2, 500 + s*6, s*1, s) 
+
+for i in range(12, 0, -1):
+    s = fib(i)
+    fill(2)
+    ellipse(500 + s*2, 500 - s*6, s*1, s)
+    
+export("1.png")
+
+
     
     

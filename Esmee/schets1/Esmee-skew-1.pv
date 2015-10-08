@@ -1,0 +1,225 @@
+size(200, 200)
+background(1)
+
+def fib(n):
+    if n < 2:
+        return 1
+    return fib (n - 1) + fib(n - 2)
+    
+fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +190, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +180, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +170, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +160, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +150, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +140, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +130, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +120, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +110, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +100, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 10
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +90, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +80, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +70, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +60, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +50, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +40, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +30, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +20, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +10, y, 3, s)
+    y += s
+
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +9, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +8, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +7, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +6, y, 3, s)
+    y += s
+    
+    fill(0)
+y = 0
+for i in range(15):
+    s = fib(i)
+    print "%d: %d" % (i + 1, s)
+    skew(2)
+    rect(-s +5, y, 3, s)
+    y += s
+    

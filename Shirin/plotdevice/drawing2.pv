@@ -1,5 +1,5 @@
 size(1000, 1000)
-background("#600", "white")
+background("black", "white")
 
 # Fibonacci as a recursive function
 def fib(n):
@@ -16,9 +16,11 @@ for i in range(12, 0, -1):
     s = fib(i)
     # Start at bottom right corner
     # (calculate the from position by using x - s)
-    fill("#800", "white")
+    fill("white", "black")
     ellipse(500 - s*2, 500 - s*2, s*4, s*4)
     
-export('output.png')
+export("output2.png")
+    
+
     
     

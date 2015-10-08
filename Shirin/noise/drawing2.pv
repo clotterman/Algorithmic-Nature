@@ -1,5 +1,5 @@
 size(512, 512)
-background("#200")
+background(0)
 
 import noise
 
@@ -10,7 +10,6 @@ for i in range(10):
     print noise.pnoise1(0.01 + (i * 0.01))
 
 stroke(5)
-fill(0.3,0.5,0.8)
 for x in range(WIDTH):
     y = noise.pnoise1(x * 0.01, octaves=3)
     y *= HEIGHT / 8.0
@@ -18,7 +17,6 @@ for x in range(WIDTH):
     rect(x, y, 50, 50)
     
 stroke(5)
-fill(0.3,0.5,0.8)
 for x in range(WIDTH):
     y = noise.pnoise1(x * 0.01, octaves=3)
     y *= HEIGHT / 3.0
@@ -26,11 +24,9 @@ for x in range(WIDTH):
     rect(x, y, 50, 50)
 
 stroke(5)
-fill(0.3,0.5,0.8)
 for x in range(WIDTH):
     y = noise.pnoise1(x * 0.01, octaves=3)
     y *= HEIGHT / 2.0
     y += HEIGHT / 2.0
     rect(x, y, 50, 50)
     
-export("2.png")
