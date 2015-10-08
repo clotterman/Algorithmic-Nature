@@ -1,0 +1,19 @@
+import noise
+
+def setup():
+    global t
+    size(200, 200)
+    background(0)
+    t = 0
+
+def draw():
+    global t
+    for y in range(100, HEIGHT, 2):
+        for x in range(100, WIDTH, 10):
+            z = noise.snoise3((x * 20), (y * 40), (t * 0.4), octaves=40)
+            fill(z)
+            poly(x + 50, y + 50, 3)
+            z  = noise.snoise3((x * 60), (y * 0.01), (t * 50), octaves=60)
+            fill(0.5 + (z * 0.5))
+            arc(x + 25, y + 15, 15)
+    t = t + 100

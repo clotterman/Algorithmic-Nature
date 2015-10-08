@@ -1,9 +1,28 @@
 # Isabel's Sketches
 
 ## Fibonacci
-<!--![](Isabel/imagefile.png)-->
+![](Isabel/fibonacci_squares.png)
+![](Isabel/fibonacci_squares4.png)
+![](Isabel/fibonacci_squares5.png)
+![](Isabel/fibonacci_squares2.png)
+![](Isabel/fibonacci_squares3.png)
+
+
+## Random
+![](Isabel/random2.png)
+![](Isabel/random1.png)
+![](Isabel/random3.png)
+![](Isabel/random4.png)
+![](Isabel/random5.png)
 
 ## Perlin Noise
+![](Isabel/perlin2.png)
+![](Isabel/perlin4.png)
+![](Isabel/perlin2.1.png)
+![](Isabel/perlin2.3.png)
+![](Isabel/perlin4.2.png)
+
+
 
 ## Recursive functions
             

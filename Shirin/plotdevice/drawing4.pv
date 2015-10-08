@@ -17,16 +17,21 @@ for i in range(20, 0, -1):
     s = fib(i)
     # Start at bottom right corner
     # (calculate the from position by using x - s)
-    fill("#200","white")
+    fill("white","black")
     stroke(0.1)
     rotate(s)
     arc(x - s, y - s, 100, range=30, close=True)
-    fill("#400","white")
+    fill("white","black")
     arc(x + s, y - s, 100, range=50, close=True)
-    fill("#600","white")
+    fill("black","white")
     arc(x + s, y + s, 100, range=80, close=True)
-    fill("#800","white")
+    fill("black","white")
     arc(x - s, y + s, 100, range=80, close=True)
 
     
+<<<<<<< HEAD
+export('output4.png')
+    
+=======
+>>>>>>> origin/master
     

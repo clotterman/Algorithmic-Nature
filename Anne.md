@@ -1,6 +1,15 @@
 # Anne's Sketches
 
 ## Fibonacci
+![drawing 1](Anne/Schets/Fibonacci_1.png)
+[drawing 1](Anne/Schets/Fibonacci_1.pv)
+
+![drawing 1](Anne/Schets/Fibonacci_2.png)
+[drawing 1](Anne/Schets/Fibonacci_2.pv)
+
+![drawing 1](Anne/Schets/Fibonacci_3.png)
+[drawing 1](Anne/Schets/Fibonacci_3.pv)
+
 ![drawing 1](Anne/Schets_2/Random_1.png)
 [drawing 1](Anne/Schets_2/random_1.pv)
 

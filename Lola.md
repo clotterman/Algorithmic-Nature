@@ -1,9 +1,40 @@
 # Lola's Sketches
 
 ## Fibonacci
-<!--![](Lola/imagefile.png)-->
+
+![](Lola/fibonachi/1.png)
+[klik hier](Lola/fibonachi/1.pv)
+![](Lola/fibonachi/2.png)
+[klik hier](Lola/fibonachi/2.pv)
+![](Lola/fibonachi/3.png)
+[klik hier](Lola/fibonachi/3.pv)
+![](Lola/fibonachi/4.png)
+[klik hier](Lola/fibonachi/4.pv)
+![](Lola/fibonachi/5.png)
+[klik hier](Lola/fibonachi/5.pv)
+![](Lola/fibonachi/6.png)
+[klik hier](Lola/fibonachi/6.pv)
+
 
 ## Perlin Noise
+
+![](Lola/perlin_noise/1.gif)
+[klik hier](Lola/perlin_noise/1.pv)
+![](Lola/perlin_noise/2.gif)
+[klik hier](Lola/perlin_noise/2.pv)
+![](Lola/perlin_noise/3.gif)
+[klik hier](Lola/perlin_noise/3.pv)
+![](Lola/perlin_noise/4.gif)
+[klik hier](Lola/perlin_noise/4.pv)
+![](Lola/perlin_noise/5.gif)
+[klik hier](Lola/perlin_noise/5.pv)
+![](Lola/perlin_noise/6.gif)
+[klik hier](Lola/perlin_noise/6.pv)
+![](Lola/perlin_noise/7.gif)
+[klik hier](Lola/perlin_noise/7.pv)
+![](Lola/perlin_noise/8.gif)
+[klik hier](Lola/perlin_noise/8.pv)
+
 
 ## Recursive functions
             

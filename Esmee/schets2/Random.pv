@@ -1,5 +1,5 @@
 size(200, 200)
-background(100,100,100)
+background(0)
 
 speed(100)
 
@@ -9,13 +9,13 @@ def setup(anim):
 
 def draw(anim):
     x, y = random(WIDTH), random(HEIGHT)
-    dotcolor = color(HSV, random(), .3, .8)
+    dotcolor = color("white")
     anim.dots.append([x, y, dotcolor])
 
     for x, y, clr in anim.dots:
         clr.alpha -= 1.0/anim.limit
         fill(clr)
-        arc(x, y, 2)
+        arc(x, y, 20)
     anim.dots = anim.dots[-anim.limit:]
 
 def stop(anim):
