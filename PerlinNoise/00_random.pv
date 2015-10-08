@@ -1,6 +1,6 @@
 # Print a random number between 0 and 5
-print random(6)
-print random(6)
+print random(3)
+print random(2)
 
 # Print a random number between 1 and 6
 print random(1,6)
@@ -14,7 +14,7 @@ for i in range(20):
 
 # Seed the random numbers from same exact number
 from random import seed
-seed(0)
+seed(7)
 
 for i in range(20):
     print random(1,6)
