@@ -31,7 +31,10 @@
 ![drawing 1](Kimberley/sketches_les_2/random3.png)
 [drawing 1](Kimberley/sketches_les_2/Les-02-Random.pv)
 
+
 ## Perlin Noise
+
+....
 
 ## Recursive functions
             

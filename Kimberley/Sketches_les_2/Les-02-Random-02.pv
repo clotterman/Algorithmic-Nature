@@ -15,4 +15,3 @@ def draw(anim):
         fill(clr)
         form = choice((oval,star))
         form(x, y, 5 ,5,) #waar & en x,y
-movie = export('anim.mov', fps=50, bitrate=1.8)
