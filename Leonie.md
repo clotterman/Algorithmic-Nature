@@ -1,9 +1,13 @@
 # Leonie's Sketches
 
 ## Fibonacci
-<!--![](Leonie/imagefile.png)-->
+
+
+## Random
+![](Leonie/random2_text.png)
 
 ## Perlin Noise
+![](Leonie/perlinnoise1.png)
 
 ## Recursive functions
             
