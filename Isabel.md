@@ -18,9 +18,9 @@
 ## Perlin Noise
 ![](Isabel/perlin2.png)
 ![](Isabel/perlin4.png)
-![](Isabel/perlin2.1.pdf)
-![](Isabel/perlin2.3.pdf)
-![](Isabel/perlin4.2.pdf)
+![](Isabel/perlin2.1.png)
+![](Isabel/perlin2.3.png)
+![](Isabel/perlin4.2.png)
 
 
 
