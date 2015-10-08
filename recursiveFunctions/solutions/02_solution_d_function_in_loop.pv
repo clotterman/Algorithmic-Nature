@@ -15,4 +15,6 @@ def wavy_line(x, y):
         y = y2
 
 for i in range(9):
-    wavy_line(10, 100 + (i * 25))
+    x = 10
+    y = 100 + (i * 25)
+    wavy_line(x, y)
