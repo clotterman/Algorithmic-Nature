@@ -1,9 +1,9 @@
 size(200, 200)
-background("pink")
+background("black")
 
 for i in range(80):
     x = random(WIDTH)
     y = random(HEIGHT)
-    fill('pink', 'cyan')
+    fill('black', 'grey')
     stroke(10)
-    rect(x, y, 50, 50)
+    rect(x, y, 200, 200)

@@ -4,7 +4,7 @@ global t
 def setup():
     size(200, 200)
     global t
-    background(0)
+    background("black")
     t = 10
 
 def draw():
@@ -14,5 +14,5 @@ def draw():
     for x in range(WIDTH):
         y = noise.snoise2((x * 10) + t, 0.0, octaves=100)
         y *= HEIGHT / 0.5
-        y += HEIGHT / 80.0
-        line(x, HEIGHT, x, HEIGHT - y)
+        y += HEIGHT / 0.90
+        line(-x, HEIGHT, x, HEIGHT - y)

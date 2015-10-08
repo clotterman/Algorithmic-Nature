@@ -9,11 +9,11 @@ def setup():
 
 def draw():
     global t
-    for y in range(0, WIDTH, 20):
-        for x in range(0, WIDTH, 80):
+    for y in range(0, WIDTH, 2):
+        for x in range(0, WIDTH, 8):
             z = noise.snoise3((x * 10), (y * 10), t, octaves=40)
             z = z * 100
             x_3d = x * 0.5 + y * 0.10
             y_3d = (WIDTH / 5) + (y * 80) - (x * 20) - (z * 100)
-            oval(x_3d, y_3d, 5, 100)
+            oval(x_3d, y_3d, 1, 100)
     t = t + 1
