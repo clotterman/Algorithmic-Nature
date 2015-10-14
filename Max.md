@@ -6,7 +6,6 @@
 ![](Max/fib_03.png)[Fibonacci 3](Max/fib_03.pv)
 ![](Max/fib_04.png)[Fibonacci 4](Max/fib_04.pv)
 ![](Max/fib_05.png)[Fibonacci 5](Max/fib_05.pv)
-![](Max/fib_06.png)[Fibonacci 6](Max/fib_06.pv)
 
 ## Random
 ![](Max/schets_random_01.png)[Random 1](Max/schets_random_01.pv)
