@@ -1,4 +1,4 @@
-size(400, 400)
+size(200, 200)
 background(100)
 
 # Fibonacci as a recursive function
@@ -25,4 +25,4 @@ for i in range(14, 0, -1):
     poly(s , s, s )
     scale(1.22)
     
-    export('Fibonacci10.jpg')
+    export('Fibonacci10.png')

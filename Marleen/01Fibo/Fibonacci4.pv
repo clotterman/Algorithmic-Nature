@@ -1,4 +1,4 @@
-size(400, 400)
+size(200, 200)
 background(100)
 
 # Fibonacci as a recursive function
@@ -10,8 +10,8 @@ def fib(n):
 nofill()
 strokewidth(3)
 stroke(0)
-x = 400
-y = 400
+x = 200
+y = 200
 for i in range(30, 0, -1):
     # variable s to optimize for speed
     s = fib(i)
@@ -22,4 +22,4 @@ for i in range(30, 0, -1):
     rotate(4)
   
 
-export('Fibonacci6.jpg')
+export('Fibonacci6.png')

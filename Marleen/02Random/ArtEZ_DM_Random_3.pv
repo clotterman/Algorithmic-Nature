@@ -1,4 +1,4 @@
-size(400, 400)
+size(200, 200)
 background(100)
 
 
@@ -9,4 +9,4 @@ for i in range(400):
     rotate(3)
     oval(x, 50, 1, 5)
     
-export('Random3.jpg')
+export('Random3.png')

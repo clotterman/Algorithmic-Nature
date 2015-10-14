@@ -1,4 +1,4 @@
-size(400, 400)
+size(200, 200)
 background(100)
 
 
@@ -15,4 +15,4 @@ for i in range(70):
     star(x, y, x, y)
     rotate(5)
     
-export('Random2.jpg')
+export('Random2.png')
