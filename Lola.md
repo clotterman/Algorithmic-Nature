@@ -37,4 +37,22 @@
 
 
 ## Recursive functions
-            
+
+![](Lola/recursive/1.png)
+[klik hier](Lola/recursive/1.pv)
+![](Lola/recursive/2.png)
+[klik hier](Lola/recursive/2.pv)
+![](Lola/recursive/3.png)
+[klik hier](Lola/recursive/3.pv)
+![](Lola/recursive/4.png)
+[klik hier](Lola/recursive/4.pv)
+![](Lola/recursive/5.png)
+[klik hier](Lola/recursive/5.pv)
+![](Lola/recursive/6.png)
+[klik hier](Lola/recursive/6.pv)
+![](Lola/recursive/7.png)
+[klik hier](Lola/recursive/7.pv)
+![](Lola/recursive/8.png)
+[klik hier](Lola/recursive/8.pv)
+![](Lola/recursive/9.png)
+[klik hier](Lola/recursive/9.pv)
