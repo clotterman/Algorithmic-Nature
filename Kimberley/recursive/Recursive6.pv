@@ -70,3 +70,4 @@ def segment(x, y, x_direction, height, depth):
     return (x2, y2)
 
 segment(x, y, 0, 0, 6)
+export('recursive6.png')
