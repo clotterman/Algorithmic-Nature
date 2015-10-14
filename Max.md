@@ -23,4 +23,11 @@
 ![](Max/perlinnoise_06.png)[Perlin 6](Max/perlinnoise_06.pv)
 
 ## Recursive functions
-            
+![](Max/recursive_01.png)[RF 1](Max/recursive_01.pv)
+![](Max/recursive_02.png)[RF 2](Max/recursive_02.pv)
+![](Max/recursive_03.png)[RF 3](Max/recursive_03.pv)
+![](Max/recursive_04.png)[RF 4](Max/recursive_04.pv)
+![](Max/recursive_05.png)[RF 5](Max/recursive_05.pv)
+
+        
+
