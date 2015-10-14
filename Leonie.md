@@ -1,7 +1,7 @@
 # Leonie's Sketches
 
 ## Fibonacci
-![](Leonie/fibonnacci1.png)
+![](Leonie/fibonacci1.png)
 [drawing 1](Leonie/fibonacci1pv.pv)
 ![](Leonie/fibonacci2.png)
 [drawing 1](Leonie/fibonacci2pv.pv)
