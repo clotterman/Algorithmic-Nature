@@ -21,7 +21,8 @@
 [drawing 3](Marleen/01Fibo/ArtEZ_DM_Random_3.pv)
 ![](Marleen/02Random/Random4.jpg) 
 [drawing 4](Marleen/01Fibo/ArtEZ_DM_Random_4.pv)
-
+![](Marleen/02Random/Random6.jpg) 
+[drawing 4](Marleen/01Fibo/ArtEZ_DM_Random_6.pv)
 
 ## Perlin Noise
 
