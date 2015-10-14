@@ -4,15 +4,17 @@ global t
 def setup():
     size(200, 200)
     global t
-    background(0.3, 0.5, 1)
-    t = 2
+    background(0)
+    t = 1
 
 def draw():
     global t
-    stroke(6)
-    t = t + 2
-    for x in range(HEIGHT):
-        y = noise.snoise2((x * 0.1) + t, 0.5, octaves=(1))
-        y *= WIDTH / 6.0
-        y += WIDTH / 2.0
-        line(x, HEIGHT, x, WIDTH - y)
+    stroke(10)
+    t = t + 0.10
+    for x in range(WIDTH):
+        y = noise.snoise2((x * 0.01) + t, 0.0, octaves=10)
+        y *= HEIGHT / 1.0
+        y += HEIGHT / 2.0
+        y += HEIGHT / random(0,1.0)
+        
+        ellipse(x, HEIGHT, x, HEIGHT - y)
