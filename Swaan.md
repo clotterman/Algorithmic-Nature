@@ -35,7 +35,7 @@
 ![](Swaan/perlinnoise4.png)
 [drawing4](Swaan/perlinnoise4.pv)
 ![](Swaan/perlinnoise4.1.png)
-[drawing4](Swaan/perlinnoise4.pv)
+[drawing4.1](Swaan/perlinnoise4.pv)
 ![](Swaan/perlinnoise5.png)
 [drawing5](Swaan/perlinnoise5.pv)
 
