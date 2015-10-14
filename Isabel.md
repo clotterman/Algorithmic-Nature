@@ -22,7 +22,7 @@
 ## Perlin Noise
 ![](Isabel/perlin2.png)
 ![](Isabel/2.3.png)
-![](Isabel/2.3.pv)
+![perlin2](Isabel/2.3.pv)
 ![](Isabel/perlin4.png)
 ![](Isabel/perlin2.1.png)
 ![](Isabel/perlin2.3.png)
