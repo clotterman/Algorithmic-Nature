@@ -1,0 +1,106 @@
+size(400, 400)
+background(1)
+stroke (0)
+
+# start position
+x = WIDTH / 2
+y = HEIGHT / 29
+
+def segment(x, y, x_direction, height):
+    x2 = 1 + x_direction
+    y2 = 1 - 30
+    line (1000, 2000, 40, 20)
+    return (x2, 30)
+    
+    
+
+# play with 3rd and 4th argument
+segment(20, 130, 100, 50)
+
+# start position
+x = WIDTH / 200
+y = HEIGHT / 39
+
+def segment(x, y, x_direction, height):
+    x2 = 1 + x_direction
+    y2 = 1 - 9
+    line (10, 20, 40, 20)
+    return (x2, 140)
+    
+    
+
+# play with 3rd and 4th argument
+segment(x, y, 0, 50)
+
+def segment(x, y, x_direction, height):
+    x2 = 1 + x_direction
+    y2 = 1 - 30
+    line (1000, 200, 40, 20)
+    return (x2, 300)
+    
+    
+
+# play with 3rd and 4th argument
+segment(x, y, 0, 0)
+
+# start position
+x = WIDTH / 200
+y = HEIGHT / 29
+
+def segment(x, y, x_direction, height):
+    x2 = 1 + x_direction
+    y2 = 1 - 30
+    line (10, 0, 10, 1200)
+    return (x2, 30)
+    
+    
+
+# play with 3rd and 4th argument
+segment(x, y, 0, 50)
+
+# start position
+x = WIDTH / 200
+y = HEIGHT / 29
+
+def segment(x, y, x_direction, height):
+    x2 = 1 + x_direction
+    y2 = 1 - 30
+    line (10, 110, 1000, 120)
+    return (x2, 30)
+    
+    
+
+# play with 3rd and 4th argument
+segment(x, y, 10, 50)
+
+# start position
+x = WIDTH / 2000
+y = HEIGHT / 290
+
+def segment(x, y, x_direction, height):
+    x2 = 1 + x_direction
+    y2 = 1 - 30
+    rect (x, y, 10, 1200)
+    return (x2, 70)
+    
+    
+
+# play with 3rd and 4th argument
+segment(x, y, 10, 50)
+
+# start position
+x = WIDTH / 200
+y = HEIGHT / 29
+
+def segment(x, y, x_direction, height):
+    x2 = 1 + x_direction
+    y2 = 1 - 30
+    line (1, 10, 1000, 1020)
+    return (x2, 30)
+    
+    
+
+# play with 3rd and 4th argument
+segment(x, y, 10, 50)
+
+

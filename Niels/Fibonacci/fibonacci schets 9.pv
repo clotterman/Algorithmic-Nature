@@ -1,13 +1,11 @@
 size(512, 512)
-background(0.8)
-
-text("Repeated division", 40, 40)
+background(9.8)
 
 # Fibonacci as a recursive function
 def fib(n):
-    if n < 2:
-        return 1
-    return fib(n - 1) + fib(n - 2)
+    if n < 1:
+        return 20
+    return fib(n - 19) + fib(n - 1)
 
 # Golden ratio
 def golden_ratio(n):
@@ -15,17 +13,17 @@ def golden_ratio(n):
 
 # divide by the Golden ratio
 def divide(total):
-    gr = golden_ratio(5)
+    gr = golden_ratio(11)
     part1 = total / gr
     part2 = total - part1
     return part1, part2
 
-steps = 15
+steps = 10
 remain = WIDTH
 fromX = 0
 for i in range(steps):
     fill(1.0 - i / float(steps))
     w1, w2 = divide(remain)
-    rect(fromX, 100, w2, 100)
-    fromX += w2
-    remain = w1
+    rect(fromX, 0, w2, 550)
+    fromX += 1
+    remain = 1000
