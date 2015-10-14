@@ -20,17 +20,18 @@
 
 ## Perlin Noise
 
-![](Jesse/perlinnoise/perlinnoise_1.png)[perlinnoise 1](Jesse/perlinnoise/perlinnoise_1.pv)
-
-![](Jesse/perlinnoise/perlinnoise_2.png)[perlinnoise 2](Jesse/perlinnoise/perlinnoise_2.pv)
-
-![](Jesse/perlinnoise/perlinnoise_3.png)[perlinnoise 3](Jesse/perlinnoise/perlinnoise_3.pv)
-
-![](Jesse/perlinnoise/perlinnoise_4.png)[perlinnoise 4](Jesse/perlinnoise/perlinnoise_4.pv)
-
-![](Jesse/perlinnoise/perlinnoise_5.png)[perlinnoise 5](Jesse/perlinnoise/perlinnoise_5.pv)
-
-![](Jesse/perlinnoise/perlinnoise_6.png)[perlinnoise 6](Jesse/perlinnoise/perlinnoise_6.pv)
+![](Jesse/perlinnoise/perlinnoise_1.png)
+[perlinnoise 1](Jesse/perlinnoise/perlinnoise_1.pv)
+![](Jesse/perlinnoise/perlinnoise_2.png)
+[perlinnoise 2](Jesse/perlinnoise/perlinnoise_2.pv)
+![](Jesse/perlinnoise/perlinnoise_3.png)
+[perlinnoise 3](Jesse/perlinnoise/perlinnoise_3.pv)
+![](Jesse/perlinnoise/perlinnoise_4.png)
+[perlinnoise 4](Jesse/perlinnoise/perlinnoise_4.pv)
+![](Jesse/perlinnoise/perlinnoise_5.png)
+[perlinnoise 5](Jesse/perlinnoise/perlinnoise_5.pv)
+![](Jesse/perlinnoise/perlinnoise_6.png)
+[perlinnoise 6](Jesse/perlinnoise/perlinnoise_6.pv)
 
 ## Recursive functions
                         
