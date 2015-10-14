@@ -25,6 +25,12 @@
 [klik hier](Lola/random/2.pv)
 ![](Lola/random/3.png)
 [klik hier](Lola/random/3.pv)
+![](Lola/random/4.png)
+[klik hier](Lola/random/4.pv)
+![](Lola/random/5.png)
+[klik hier](Lola/random/5.pv)
+![](Lola/random/6.png)
+[klik hier](Lola/random/6.pv)
 
 
 
