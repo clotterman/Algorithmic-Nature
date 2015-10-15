@@ -21,13 +21,13 @@ import noise
 print noise.pnoise1(0.01)
 print noise.pnoise1(0.05)
 
-for i in range(4):
+for i in range(10):
     print noise.pnoise1(0.01 + (i * 0.01))
 
 background(1)
 stroke(0)
 for x in range(WIDTH):
-    y = noise.pnoise1(x * 0.01, octaves=4)
+    y = noise.pnoise1(x * 0.20, octaves=10)
     y *= HEIGHT / 2.0
     y += HEIGHT / 2.0
-    oval(x, y, 1, 1)
+    rect(x, y, 0, 200)
