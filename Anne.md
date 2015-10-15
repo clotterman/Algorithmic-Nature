@@ -37,8 +37,8 @@
 ![drawing 1](Anne/Schets_3/Perlin_Noise_1.png)
 [drawing 1](Anne/Schets_3/Perlin_Noise_1.pv)
 
-![drawing 1](Anne/Schets_3/Perlin_Noise_2.png)
-[drawing 1](Anne/Schets_3/Perlin_Noise_2.pv)
+![drawing 1](Anne/Schets_3/Perlin_Noise_6.png)
+[drawing 1](Anne/Schets_3/Perlin_Noise_6.pv)
 
 ![drawing 1](Anne/Schets_3/Perlin_Noise_3.png)
 [drawing 1](Anne/Schets_3/Perlin_Noise_3.pv)
