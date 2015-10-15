@@ -1,5 +1,5 @@
 words = ["Lists", "are", "fun"]
-colors = [color("#182"), color("#654"), color("#265")]
+colors = [color("#000"), color("#001"), color("#011")]
 
 for i in range(1000):
     x = random(WIDTH)

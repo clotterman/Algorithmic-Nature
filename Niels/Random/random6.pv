@@ -1,7 +1,7 @@
 size(512, 512)
-background('#676')
-fill('#167', 100)
-stroke('#76e')
+background('#000')
+fill('#fff', 100)
+stroke('#fff')
 pen(.25)
 for i in range(1000):
     x = random(HEIGHT)

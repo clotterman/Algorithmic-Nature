@@ -1,6 +1,6 @@
 size(512, 512)
-background("#182")
-colors = [color(1,0,0), color(1,1,1), color(0,0,0)]
+background("#000")
+colors = [color(0,0,0), color(10,19,1), color(0,0,0)]
 for i in range(1000):
     x = random(HEIGHT)
     y = random(WIDTH)
@@ -16,7 +16,7 @@ def goldenratio(n, f=4):
     n /= float(fib(f+2))
     return n*fib(f+1), n*fib(f)
     
-w1, w2 = goldenratio(260)
+w1, w2 = goldenratio(000)
 h1, h2 = goldenratio(260)
 b1, b2 = goldenratio(1.0)
 b3, b4 = goldenratio(b1)
