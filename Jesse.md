@@ -54,8 +54,13 @@
 
 ## Recursive functions
                         
-![](Jesse/recursivefunctions/function1.png)[recursivefunctions 1](Jesse/recursivefunctions/function1.pv)
-![](Jesse/recursivefunctions/function2.png)[recursivefunctions 2](Jesse/recursivefunctions/function2.pv)
-![](Jesse/recursivefunctions/function3.png)[recursivefunctions 3](Jesse/recursivefunctions/function3.pv)
-![](Jesse/recursivefunctions/function4.png)[recursivefunctions 4](Jesse/recursivefunctions/function4.pv)
-![](Jesse/recursivefunctions/function5.png)[recursivefunctions 5](Jesse/recursivefunctions/function5.pv)
+![](Jesse/recursivefunctions/function1.png)
+[recursivefunctions 1](Jesse/recursivefunctions/function1.pv)
+![](Jesse/recursivefunctions/function2.png)
+[recursivefunctions 2](Jesse/recursivefunctions/function2.pv)
+![](Jesse/recursivefunctions/function3.png)
+[recursivefunctions 3](Jesse/recursivefunctions/function3.pv)
+![](Jesse/recursivefunctions/function4.png)
+[recursivefunctions 4](Jesse/recursivefunctions/function4.pv)
+![](Jesse/recursivefunctions/function5.png)
+[recursivefunctions 5](Jesse/recursivefunctions/function5.pv)
