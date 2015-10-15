@@ -1,21 +1,6 @@
 # Jesse's Sketches
 
 ## Fibonacci
-<<<<<<< HEAD
-![](Jesse/Fibonacci/fib1.png)
-![](Jesse/Fibonacci/fib2.png)
-![](Jesse/Fibonacci/fib3.png)
-![](Jesse/Fibonacci/fib4.png)
-![](Jesse/Fibonacci/fib5.png)
-![](Jesse/Fibonacci/fib6.png)
-![](Jesse/Fibonacci/fib7.png)
-
-![](Jesse/random/schets1.png)
-![](Jesse/random/schets2.png)[random 2](Jesse/random/schets2.pv)
-![](Jesse/random/schets3.png)
-![](Jesse/random/schets4.png)[random 4](Jesse/Fibonacci/schets4.pv)
-![](Jesse/random/schets5.png)[random 5](Jesse/Fibonacci/schets5.pv)
-=======
 
 ![](Jesse/fibonacci/fib1.png)[fibonacci 1](Jesse/fibonacci/fib1.pv)
 ![](Jesse/fibonacci/fib2.png)[fibonacci 2](Jesse/fibonacci/fib2.pv)
@@ -23,7 +8,7 @@
 ![](Jesse/fibonacci/fib4.png)[fibonacci 4](Jesse/fibonacci/fib4.pv)
 ![](Jesse/fibonacci/fib5.png)[fibonacci 5](Jesse/fibonacci/fib5.pv)
 
->>>>>>> origin/master
+
 
 ## Random
 
@@ -35,22 +20,21 @@
 
 
 ## Perlin Noise
-<<<<<<< HEAD
-![](Jesse/PerlinNoise/perlinnoise_1.png) [perlin 1](Jesse/Fibonacci/perlinnoise_1.pv)
-![](Jesse/PerlinNoise/perlinnoise_2.png)[perlin 2](Jesse/Fibonacci/perlinnoise_2.pv)
-![](Jesse/PerlinNoise/perlinnoise_3.png)[perlin 3](Jesse/Fibonacci/perlinnoise_3.pv)
-![](Jesse/PerlinNoise/perlinnoise_4.png)[perlin 4](Jesse/Fibonacci/perlinnoise_4.pv)
-![](Jesse/PerlinNoise/perlinnoise_5.png)[perlin 5](Jesse/Fibonacci/perlinnoise_5.pv)
-![](Jesse/PerlinNoise/perlinnoise_6.png)[perlin 6] (Jesse/Fibonacci/perlinnoise_6.pv)
-=======
 
-![](Jesse/perlinnoise/perlinnoise_1.png)[perlinnoise 1](Jesse/perlinnoise/perlinnoise_1.pv)
-![](Jesse/perlinnoise/perlinnoise_2.png)[perlinnoise 2](Jesse/perlinnoise/perlinnoise_2.pv)
-![](Jesse/perlinnoise/perlinnoise_3.png)[perlinnoise 3](Jesse/perlinnoise/perlinnoise_3.pv)
-![](Jesse/perlinnoise/perlinnoise_4.png)[perlinnoise 4](Jesse/perlinnoise/perlinnoise_4.pv)
-![](Jesse/perlinnoise/perlinnoise_5.png)[perlinnoise 5](Jesse/perlinnoise/perlinnoise_5.pv)
-![](Jesse/perlinnoise/perlinnoise_6.png)[perlinnoise 6](Jesse/perlinnoise/perlinnoise_6.pv)
->>>>>>> origin/master
+
+![](Jesse/perlinnoise/perlinnoise_1.png)
+[perlinnoise 1](Jesse/perlinnoise/perlinnoise_1.pv)
+![](Jesse/perlinnoise/perlinnoise_2.png)
+[perlinnoise 2](Jesse/perlinnoise/perlinnoise_2.pv)
+![](Jesse/perlinnoise/perlinnoise_3.png)
+[perlinnoise 3](Jesse/perlinnoise/perlinnoise_3.pv)
+![](Jesse/perlinnoise/perlinnoise_4.png)
+[perlinnoise 4](Jesse/perlinnoise/perlinnoise_4.pv)
+![](Jesse/perlinnoise/perlinnoise_5.png)
+[perlinnoise 5](Jesse/perlinnoise/perlinnoise_5.pv)
+![](Jesse/perlinnoise/perlinnoise_6.png)
+[perlinnoise 6](Jesse/perlinnoise/perlinnoise_6.pv)
+
 
 ## Recursive functions
                         
