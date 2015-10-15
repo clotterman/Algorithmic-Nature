@@ -7,7 +7,7 @@ kleur = color(RGB, random(), random(), 9)
 for i in range(100):
     with bezier(430,10,fill=None):
         stroke(0.01)
-        stroke(kleur)
+        stroke(0)
         arcto(0, 200-i*10)
         
 for i in range(200):
@@ -16,5 +16,5 @@ for i in range(200):
         stroke(random())
         arcto(0, 1-i*9)
 
-export('random4.png')
+
    

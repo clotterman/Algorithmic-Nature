@@ -41,4 +41,3 @@ for l in range(100):
     stroke(0, 0.4)
     stroke('#ff0000')
    
- export('random3.png')
