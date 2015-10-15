@@ -9,25 +9,30 @@
 
 
 ## Random
-![](Isabel/random2.png)
 ![](Isabel/random1.png)
-![](Isabel/random1.pv)
+[random1](Isabel/random1.pv)
+![](Isabel/random2.png)
+[random2](Isabel/random1.1.pv)
 ![](Isabel/random3.png)
-![](Isabel/random3.pv)
+[random3](Isabel/random3.pv)
 ![](Isabel/random4.png)
-![](Isabel/random4.pv)
+[random4](Isabel/random4.pv)
 ![](Isabel/random5.png)
-![](Isabel/random5.pv)
+[random5](Isabel/random5.pv)
 
 ## Perlin Noise
 ![](Isabel/perlin2.png)
+[perlin1](Isabel/3.pv)
 ![](Isabel/2.3.png)
 [perlin2](Isabel/2.3.pv)
 ![](Isabel/perlin4.png)
+![](Isabel/perlin4.1.png)
+[perlin4](Isabel/4.1.pv)
 ![](Isabel/perlin2.1.png)
 ![](Isabel/perlin2.3.png)
-![](Isabel/perlin2.pv)
+[perlin5](Isabel/2.3.pv)
 ![](Isabel/perlin4.2.png)
+[perlin6](Isabel/4.2.pv)
 
 
 
@@ -55,8 +60,13 @@
 ![](Isabel/recursive15.png)
 ![](Isabel/19.2.png)
 ![](Isabel/19.3.png)
+[recursive17](Isabel/19.2.pv)
 ![](Isabel/19.4.png)
 ![](Isabel/19.5.png)
+[recursive19](Isabel/19.5.pv)
 ![](Isabel/19.6.png)
+[recursive20](Isabel/19.6.pv)
 ![](Isabel/19.7.png)
+[recursive21](Isabel/19.7.pv)
 ![](Isabel/19.8.png)
+[recursive22](Isabel/19.9.pv)
