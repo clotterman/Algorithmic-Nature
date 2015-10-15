@@ -34,6 +34,7 @@ for k in range(octaves):
             z /= nx * ny
             imgAr[ky][kx] += z # add image layers together
 
+<<<<<<< HEAD
 # paint image
 for ky in range(imgy):
     for kx in range(imgx):
@@ -43,3 +44,22 @@ for ky in range(imgy):
 label = "Persistence = " + str(persistence)
 draw.text((0, 0), label, (0, 255, 0)) # write to top-left using green color
 image.save("PerlinNoise.png", "PNG")
+=======
+def setup():
+    size(200, 200)
+    global t
+    background(0)
+    t = 1
+
+def draw():
+    global t
+    stroke(10)
+    t = t + 0.10
+    for x in range(WIDTH):
+        y = noise.snoise2((x * 0.01) + t, 0.0, octaves=10)
+        y *= HEIGHT / 1.0
+        y += HEIGHT / 2.0
+        y += HEIGHT / random(0,1.0)
+        
+        ellipse(x, HEIGHT, x, HEIGHT - y)
+>>>>>>> origin/master

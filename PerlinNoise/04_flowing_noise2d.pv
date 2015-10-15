@@ -8,6 +8,7 @@ def setup():
     t = 0
 
 def draw():
+    
     global t
     stroke(0)
     t = t + 0.01
